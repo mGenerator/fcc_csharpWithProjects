@@ -1,0 +1,7 @@
+C:\Users\black\Documents\_repos\fcc_Csharp_WithProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\black\Documents\_repos\fcc_Csharp_WithProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\black\Documents\_repos\fcc_Csharp_WithProjects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\black\Documents\_repos\fcc_Csharp_WithProjects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\black\Documents\_repos\fcc_Csharp_WithProjects\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\black\Documents\_repos\fcc_Csharp_WithProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\black\Documents\_repos\fcc_Csharp_WithProjects\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
